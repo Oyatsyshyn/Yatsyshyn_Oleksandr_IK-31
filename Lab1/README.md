@@ -34,4 +34,4 @@ git checkout branch_one
 git pull
 ```
 ### 10. Вставлення зображення в README.md файл :
-![alt text](https://github.com/Oyatsyshyn/Yatsyshyn_Oleksandr_IK-31/blob/master/Lab1/1.jpg) 
+![alt text](https://github.com/Oyatsyshyn/Yatsyshyn_Oleksandr_IK-31/blob/Master/Lab1/1.jpg) 
